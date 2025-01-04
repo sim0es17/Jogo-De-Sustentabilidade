@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/sim0es17/Jogo-De-Sustentabilidade.git/static/css/main.8122f9bb.css",
-    "main.js": "/sim0es17/Jogo-De-Sustentabilidade.git/static/js/main.c663935c.js",
-    "static/media/background.jpg": "/sim0es17/Jogo-De-Sustentabilidade.git/static/media/background.5cda5fe8299a90d64e73.jpg",
-    "index.html": "/sim0es17/Jogo-De-Sustentabilidade.git/index.html",
-    "main.8122f9bb.css.map": "/sim0es17/Jogo-De-Sustentabilidade.git/static/css/main.8122f9bb.css.map",
-    "main.c663935c.js.map": "/sim0es17/Jogo-De-Sustentabilidade.git/static/js/main.c663935c.js.map"
+    "main.css": "/Jogo-De-Sustentabilidade/static/css/main.663884d4.css",
+    "main.js": "/Jogo-De-Sustentabilidade/static/js/main.c663935c.js",
+    "static/media/background.jpg": "/Jogo-De-Sustentabilidade/static/media/background.5cda5fe8299a90d64e73.jpg",
+    "index.html": "/Jogo-De-Sustentabilidade/index.html",
+    "main.663884d4.css.map": "/Jogo-De-Sustentabilidade/static/css/main.663884d4.css.map",
+    "main.c663935c.js.map": "/Jogo-De-Sustentabilidade/static/js/main.c663935c.js.map"
   },
   "entrypoints": [
-    "static/css/main.8122f9bb.css",
+    "static/css/main.663884d4.css",
     "static/js/main.c663935c.js"
   ]
 }
