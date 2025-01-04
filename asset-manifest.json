@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Jogo-De-Sustentabilidade/static/css/main.663884d4.css",
-    "main.js": "/Jogo-De-Sustentabilidade/static/js/main.eb2dc396.js",
+    "main.js": "/Jogo-De-Sustentabilidade/static/js/main.723dae57.js",
     "static/media/background.jpg": "/Jogo-De-Sustentabilidade/static/media/background.5cda5fe8299a90d64e73.jpg",
     "index.html": "/Jogo-De-Sustentabilidade/index.html",
     "main.663884d4.css.map": "/Jogo-De-Sustentabilidade/static/css/main.663884d4.css.map",
-    "main.eb2dc396.js.map": "/Jogo-De-Sustentabilidade/static/js/main.eb2dc396.js.map"
+    "main.723dae57.js.map": "/Jogo-De-Sustentabilidade/static/js/main.723dae57.js.map"
   },
   "entrypoints": [
     "static/css/main.663884d4.css",
-    "static/js/main.eb2dc396.js"
+    "static/js/main.723dae57.js"
   ]
 }
