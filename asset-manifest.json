@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sim0es17/Jogo-De-Sustentabilidade.git/static/css/main.29191f64.css",
+    "main.js": "/sim0es17/Jogo-De-Sustentabilidade.git/static/js/main.c663935c.js",
+    "static/media/background.jpg": "/sim0es17/Jogo-De-Sustentabilidade.git/static/media/background.5cda5fe8299a90d64e73.jpg",
+    "index.html": "/sim0es17/Jogo-De-Sustentabilidade.git/index.html",
+    "main.29191f64.css.map": "/sim0es17/Jogo-De-Sustentabilidade.git/static/css/main.29191f64.css.map",
+    "main.c663935c.js.map": "/sim0es17/Jogo-De-Sustentabilidade.git/static/js/main.c663935c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29191f64.css",
+    "static/js/main.c663935c.js"
+  ]
+}
