@@ -1,0 +1,59 @@
+.board-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: 600px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border: 4px solid #4CAF50;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+.info-panel {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.board {
+    display: grid;
+    grid-template-columns: repeat(10, 40px);
+    grid-gap: 5px;
+}
+
+.cell {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+}
+
+.cell:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.progress-screen {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.85);
+    color: white;
+    padding: 40px;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 2rem;
+    z-index: 1000;
+}
+
+.no-cursor {
+    user-select: none; /* Impede seleção de texto */
+    cursor: default;   /* Impede o cursor de texto */
+}

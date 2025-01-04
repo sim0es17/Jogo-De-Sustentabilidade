@@ -1,0 +1,48 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-image: url('background.jpg');
+  background-size: cover;
+  background-position: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+.start-screen {
+  text-align: center;
+  margin-top: -20%;
+}
+
+.start-screen button {
+  font-size: 1.5rem;
+  padding: 15px 30px;
+  background-color: #4CAF50;
+  color: white;
+  border: 3px solid #4CAF50;
+  border-radius: 10px;
+  cursor: pointer;
+  box-shadow: 0 0 10px rgba(76, 175, 80, 0.8);
+}
+
+.start-screen button:hover {
+  background-color: #45a049;
+  transform: scale(1.05);
+}
+
+.board {
+  display: grid;
+  grid-template-columns: repeat(10, 40px);
+  grid-gap: 6px;
+}
+
+.cell {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5rem;
+}
